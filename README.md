@@ -4,7 +4,7 @@ Project name: Keyboard Battleship
 
 Pratima Vaidyanathan, Jong Whee Jeon, Daniel Gruspier , Kenneth Chan
 
-Link to your Project Demo Video: [link]
+Link to your Project Demo Video: https://drive.google.com/file/d/16hWllAEnKs-wSvSncV8V9oV2lXheC0MC/view
 
 Overview of the Project:
 A program that plays the board game battleship. The playing field is the keyboard, used both for placing and hitting the ship. The VGA shows whether players have hit or missed during their turn, and displays a winner when the game is over. The seven segment display indicates whose turn it is. The FPGA center button is used to progress through the phase.
